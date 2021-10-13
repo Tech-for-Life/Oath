@@ -1,4 +1,4 @@
-# Hypocratic oath for Scientists & Technologists
+# Hypocratic Oath for Scientists & Technologists
 
 I swear to all the builders, inventors, philosophers, and artisans that have come before me, ancient and present, who diligently crafted our collective 
 and shared body of scientific discovery, knowledge, and tools, making them my witnesses, that I will carry out, according to my ability and judgment, 

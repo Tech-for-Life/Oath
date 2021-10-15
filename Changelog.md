@@ -1,7 +1,7 @@
 # Changelog
 
 
-## v.0.5.0
+## v.0.5.1
 
 Updated sp errors in content
 

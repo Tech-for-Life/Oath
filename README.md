@@ -1,6 +1,6 @@
 # Oath
 
-Hypocratic Oath for Scientists &amp; Technologists
+Hippocratic Oath for Scientists &amp; Technologists
 
 ## Overview
 

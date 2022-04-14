@@ -11,5 +11,5 @@ In its current form, the oath requires a new scientist or technologist to swear 
 ## Resources
 
 * Read the [Oath](Oath.md)
-* Take [the Pledge](https://www.techforlifesummit.org/oath)
+* Take [the Pledge](https://www.techforlifesummit.com/tech-for-life-oath)
 * View [Versions](Changelog.md)
